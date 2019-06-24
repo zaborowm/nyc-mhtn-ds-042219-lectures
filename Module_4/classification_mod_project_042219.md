@@ -1,5 +1,6 @@
+# End of Module Project ds-042219
 
-# Applying Classification Modeling
+## Applying Classification Modeling
 
 For this module's project, you will answer a classification data science question using multiple models and present the results of your project. In doing so, we want you to utilize all of the different tools we have learned over the course: data cleaning, EDA, feature engineering/transformation, feature selection, hyperparameter tuning, and model evaluation. Each student will give a 4 minute presentation on Friday to explain their project to their fellow classmates.
 
